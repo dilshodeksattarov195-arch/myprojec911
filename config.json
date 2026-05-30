@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentdonnect",
+        "uuid": 5030542,
+        "checksum": "xg16i6"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
